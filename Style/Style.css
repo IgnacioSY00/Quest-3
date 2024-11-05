@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(80, 77, 77);
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    text-shadow: 50px;
+    text-decoration-style: dotted;
+    -webkit-text-fill-color: rgb(255, 115, 0);
+}
+
+.div2{
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    height: 1000px;
+    text-align: center;
+    margin: auto;
+    opacity:40%;
+    align-items: center;
+}
+.div1{
+    width: 80%;
+    height: 80px;
+    margin: auto;
+    background-color: rgb(27, 26, 26);
+    text-align: center;
+
+
+}
